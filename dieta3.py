@@ -117,8 +117,8 @@ if "registro_diario" not in st.session_state:
         "Cena": []
     }
 
-st.title("🍎 Mi Diario Nutricional (Hecho por Jonay")
-st.write("Registra tus comidas y calcula tus calorías y proteínas diarias al instante.")
+st.title("🍎 Mi Diario Nutricional")
+st.write("Registra tus comidas y calcula tus calorías y proteínas diarias al instante.-Hecho por Jonay-")
 
 # --- ENTRADA DEL PESO ACTUAL Y CÁLCULO DE OBJETIVOS ---
 st.subheader("⚖️ Tu Perfil y Objetivos")
